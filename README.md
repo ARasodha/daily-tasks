@@ -1,4 +1,4 @@
-# Daily Tasks/TodoA app - Node.js, Express.js, Pug, CSS
+# Daily Tasks/Todo App - Node.js, Express.js, Pug, CSS
 
 ## Overview
 Daily tasks/todo app lets user create todo lists and populate the lists with tasks. Tasks can be completed or simply removed if necessary.
